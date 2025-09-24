@@ -32,6 +32,7 @@ map.html
         <title>Vellore City</title>
     </head>
     <Body>
+        <h2>Shreeshanth <br> Ref_no.:25012265</h2>
         <img src="Screenshot 2025-09-20 142218.png" usemap="#image-map">
 
         <map name="image-map">
@@ -127,7 +128,7 @@ Associated Structures: It is one of two forts, the other being Gojra Fort, that 
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (4).png>)
+![alt text](<Screenshot (10).png>)
 ![alt text](<Screenshot (5).png>)
 ![alt text](<Screenshot (6).png>)
 ![alt text](<Screenshot (7).png>)
